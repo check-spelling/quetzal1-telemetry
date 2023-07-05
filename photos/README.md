@@ -25,7 +25,7 @@ We took three pictures that day. Timing was critical, absolute and unforgiving. 
 
 We didn't know, at the time, this would become the final image ever taken by Quetzal-1. We attempted to download this last image four days later, on November 21st. Unfortunately for us, and for our strong satellite up above, a communications error ocurred between our Payload module and the On-Board Computer during picture transmission. We received the first 6 packets of the picture, and then a repetition of that last packet, replicated over the length of the picture.
 
-Then, silence: We did not hear back from Quetzal-1, and were, despite our most arduous attempts, unable to regain communications. We said goodbye to our fearless companion, and its 211 days of successful operation in orbit, with nothing but pride in what we'd managed to build, in what that corageous satellite had undergone. We anthropomorphize because that satellite had life. And because, during 6 months, we spoke to it daily, listened to its inspiring, adventurous chirp.
+Then, silence: We did not hear back from Quetzal-1, and were, despite our most arduous attempts, unable to regain communications. We said goodbye to our fearless companion, and its 211 days of successful operation in orbit, with nothing but pride in what we'd managed to build, in what that courageous satellite had undergone. We anthropomorphize because that satellite had life. And because, during 6 months, we spoke to it daily, listened to its inspiring, adventurous chirp.
 
 Long live Quetzal-1, our great gig in the sky :heart:
 
