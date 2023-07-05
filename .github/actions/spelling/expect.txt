@@ -1,0 +1,16 @@
+cff
+edu
+hhmmss
+img
+Kaitai
+Kibo
+maxed
+satelite
+satnogs
+structs
+TLE
+Universidad
+uvg
+website
+workaround
+xlsx
